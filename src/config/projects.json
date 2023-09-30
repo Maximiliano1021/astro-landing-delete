@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, quaerat facere odit exercitationem minus molestiae repellendus adipisci consequuntur nemo quasi, vero praesentium voluptates, eum minima velit. Cumque consequatur pariatur, explicabo impedit tenetur beatae excepturi totam animi, deserunt nulla voluptatum soluta ipsum quia, fugit doloremque repudiandae provident libero nobis est ab!",
+        "image":"images/fingerprint.svg"
+    },
+    {
+        "title":"Farm Land 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, quaerat facere odit exercitationem minus molestiae repellendus adipisci consequuntur nemo quasi, vero praesentium voluptates, eum minima velit. Cumque consequatur pariatur, explicabo impedit tenetur beatae excepturi totam animi, deserunt nulla voluptatum soluta ipsum quia, fugit doloremque repudiandae provident libero nobis est ab!",
+        "image":"images/fingerprint.svg"
+    },
+    {
+        "title":"Farm Land 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, quaerat facere odit exercitationem minus molestiae repellendus adipisci consequuntur nemo quasi, vero praesentium voluptates, eum minima velit. Cumque consequatur pariatur, explicabo impedit tenetur beatae excepturi totam animi, deserunt nulla voluptatum soluta ipsum quia, fugit doloremque repudiandae provident libero nobis est ab!",
+        "image":"images/fingerprint.svg"
+    }
+]
